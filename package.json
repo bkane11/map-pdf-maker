@@ -1,0 +1,28 @@
+{
+  "name": "map-pdf-maker",
+  "version": "0.0.0",
+  "description": "to make pdf mapbooks using node",
+  "main": "index.js",
+  "dependencies": {
+    "node-phantom": "^0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkane11/node-map-pdf-maker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pdf",
+    "map"
+  ],
+  "author": "ben kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkane11/node-map-pdf-maker/issues"
+  },
+  "homepage": "https://github.com/bkane11/node-map-pdf-maker"
+}
