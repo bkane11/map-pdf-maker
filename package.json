@@ -6,7 +6,16 @@
   "dependencies": {
     "node-phantom": "^0.2.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "esri2geo": "^0.1.3",
+    "geojson-utils": "^1.1.0",
+    "googlemaps": "^0.1.20",
+    "node-phantom": "^0.2.5",
+    "phantom": "^0.7.0",
+    "phantomjs": "^1.9.12",
+    "request": "^2.48.0",
+    "simplify-geojson": "0.0.2"
+  },
   "scripts": {
     "test": "test"
   },
